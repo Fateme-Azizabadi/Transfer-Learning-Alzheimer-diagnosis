@@ -13,9 +13,9 @@ Alzheimer's Dataset link: (https://www.kaggle.com/tourist55/alzheimers-dataset-4
 The image below and the table compare the model's results. 
 
  
- ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-Alzheimer's-diagnosis/blob/main/Images/Comparing.Models.Results.png)
+ ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-Alzheimer-diagnosis/blob/main/Images/Comparing.Models.Results.png)
 
- ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-Alzheimer's-diagnosis/blob/main/Images/Performance.png)
+ ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-Alzheimer-diagnosis/blob/main/Images/Performance.png)
  
- ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-Alzheimer's-diagnosis/blob/main/Images/Output.png)
+ ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-Alzheimer-diagnosis/blob/main/Images/Output.png)
  
